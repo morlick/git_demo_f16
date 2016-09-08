@@ -1,1 +1,14 @@
 We are learning git commands today 
+we learned about 
+'got branch' it is used to make copies of out code that we can edit distinctly from
+other parts of teh project
+example usage:
+git branch <my_new_branch>
+git checkout <my_new_branch>
+git branch -a #ot check that we are now on the new branch!
+
+Another command it 'git add', it is used to add a file to our project
+
+git add my_new_file.txt
+git status # list new files or changes
+git diff # show changes
