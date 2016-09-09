@@ -12,3 +12,12 @@ Another command it 'git add', it is used to add a file to our project
 git add my_new_file.txt
 git status # list new files or changes
 git diff # show changes
+ 
+amother command is 'git rm'
+ex.
+git add thing.txt
+cp thing.txt thing_2.txt
+git add thing_2.txt
+git status
+git commit -am 'thing'
+git rm thing_2.txt
